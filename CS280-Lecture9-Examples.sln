@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example01", "Example01\Example01.csproj", "{F84BE651-C447-436A-97D4-8C33700CAA52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyExtentsions", "..\MyExtentsions\MyExtentsions\MyExtentsions.csproj", "{F7A79540-567F-442C-A8FE-9F907B462213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example02", "Example02\Example02.csproj", "{65DF92A0-8969-4941-B6EF-B57D375846DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F84BE651-C447-436A-97D4-8C33700CAA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84BE651-C447-436A-97D4-8C33700CAA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84BE651-C447-436A-97D4-8C33700CAA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84BE651-C447-436A-97D4-8C33700CAA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A79540-567F-442C-A8FE-9F907B462213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A79540-567F-442C-A8FE-9F907B462213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A79540-567F-442C-A8FE-9F907B462213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A79540-567F-442C-A8FE-9F907B462213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65DF92A0-8969-4941-B6EF-B57D375846DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65DF92A0-8969-4941-B6EF-B57D375846DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65DF92A0-8969-4941-B6EF-B57D375846DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65DF92A0-8969-4941-B6EF-B57D375846DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
